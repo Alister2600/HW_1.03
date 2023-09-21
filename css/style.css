@@ -59,19 +59,15 @@ color: black;
 }
 
 h6{
+
 margin-left: auto;
 margin-right: auto;
 text-align: center;
 font-family: 'Roboto Slab', serif;
-color: black;
+color: black;}
 
-table, th, tr {
-border: 1px solid black;
-border-collapse: collapse;
-}
-
-
-
+.class table, th, tr,td {
+border: 5px solid black;
 }
 
 h7{
